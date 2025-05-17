@@ -6,9 +6,6 @@ export default defineConfig({
   plugins: [react()],
   base: './',
   build: {
-    outDir: 'dist',
-    rollupOptions: {
-      external: ['lucide-react']
-    }
+    outDir: 'dist'
   }
 });
