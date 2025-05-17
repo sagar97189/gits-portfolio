@@ -251,7 +251,7 @@ const AboutSection: React.FC = () => {
                 >
                   <div className="relative w-full h-full transition-transform duration-300 ease-out group-hover:scale-105">
                     <img 
-                      src="/src/images/me.jpg" 
+                      src="/images/me.jpg" 
                       alt="Sagar Bisht at work" 
                       className="w-full h-full object-cover transition-all duration-300 ease-in-out group-hover:brightness-110 group-hover:contrast-110"
                     />

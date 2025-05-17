@@ -88,7 +88,7 @@ const projects = [
     category: 'ui',
     description: 'A sleek and modern mobile application interface design showcasing intuitive user experience and contemporary design patterns.',
     longDescription: 'This UI/UX design project demonstrates modern design principles with a focus on user-centric interaction. The interface features clean typography, thoughtful spacing, and an engaging color palette that enhances user engagement.',
-    image: '/src/images/WhatsApp Image 2025-05-15 at 12.38.40_e0d59a20.jpg',
+    image: '/images/WhatsApp Image 2025-05-15 at 12.38.40_e0d59a20.jpg',
     link: '#',
     github: '#',
     featured: true,
@@ -99,7 +99,7 @@ const projects = [
       views: 2400
     },
     screenshots: [
-      '/src/images/WhatsApp Image 2025-05-15 at 12.38.40_e0d59a20.jpg'
+      '/images/WhatsApp Image 2025-05-15 at 12.38.40_e0d59a20.jpg'
     ]
   },
   {
@@ -109,7 +109,7 @@ const projects = [
     category: 'ui',
     description: 'Comprehensive brand identity design showcasing logo variations, color schemes, and typography guidelines.',
     longDescription: 'A complete brand identity project that includes logo design, color palette selection, typography hierarchy, and brand guidelines. The design system ensures consistency across various brand touchpoints.',
-    image: '/src/images/WhatsApp Image 2025-05-15 at 12.38.49_60e153e2.jpg',
+    image: '/images/WhatsApp Image 2025-05-15 at 12.38.49_60e153e2.jpg',
     link: '#',
     github: '#',
     featured: true,
@@ -120,7 +120,7 @@ const projects = [
       views: 2800
     },
     screenshots: [
-      '/src/images/WhatsApp Image 2025-05-15 at 12.38.49_60e153e2.jpg'
+      '/images/WhatsApp Image 2025-05-15 at 12.38.49_60e153e2.jpg'
     ]
   },
   {
