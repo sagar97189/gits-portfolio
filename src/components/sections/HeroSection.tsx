@@ -60,7 +60,7 @@ const HeroSection: React.FC = () => {
           <div className="lg:col-span-5 order-1 lg:order-2 relative animate-on-scroll">
             <div className="aspect-square rounded-2xl overflow-hidden relative bg-gradient-to-br from-primary-500/20 to-secondary-500/20 dark:from-primary-600/20 dark:to-secondary-600/20">
               <img 
-                src="/src/images/software.jpg" 
+                src="/images/software.jpg" 
                 alt="Sagar Bisht - UI/UX Designer & Web Developer" 
                 className="w-full h-full object-cover mix-blend-overlay"
               />
