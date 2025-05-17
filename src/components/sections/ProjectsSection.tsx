@@ -130,7 +130,7 @@ const projects = [
     category: 'ui',
     description: 'A collection of digital artwork and creative designs showcasing various styles and techniques.',
     longDescription: 'This creative portfolio showcases a diverse range of digital artwork, including illustrations, manipulations, and graphic designs. Each piece demonstrates mastery of different design tools and artistic techniques.',
-    image: '/src/images/WhatsApp Image 2025-05-15 at 12.40.27_d3103997.jpg',
+    image: '/images/WhatsApp Image 2025-05-15 at 12.40.27_d3103997.jpg',
     link: '#',
     github: '#',
     featured: true,
