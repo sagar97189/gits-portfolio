@@ -141,7 +141,7 @@ const projects = [
       views: 3200
     },
     screenshots: [
-      '/src/images/WhatsApp Image 2025-05-15 at 12.40.27_d3103997.jpg'
+      '/images/WhatsApp Image 2025-05-15 at 12.40.27_d3103997.jpg'
     ]
   }
 ];
