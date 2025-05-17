@@ -218,7 +218,7 @@ const AboutSection: React.FC = () => {
               <div>
                 <h4 className="font-bold text-xl mb-4">Let's Connect</h4>
                 <a 
-                  href="/src/images/cv.pdf" 
+                  href="/images/cv.pdf" 
                   download 
                   className="btn btn-primary w-full justify-center"
                 >
