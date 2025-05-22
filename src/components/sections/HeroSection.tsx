@@ -65,6 +65,7 @@ const HeroSection: React.FC = () => {
                 className="w-full h-full object-cover mix-blend-overlay"
               />
               
+              
               {/* Decorative elements */}
               <div className="absolute -top-4 -right-4 w-24 h-24 border-2 border-primary-500 rounded-xl dark:border-primary-400"></div>
               <div className="absolute -bottom-4 -left-4 w-24 h-24 border-2 border-secondary-500 rounded-xl dark:border-secondary-400"></div>
